@@ -14,6 +14,8 @@ This page hosts additional files and figures associated with the paper. Click on
 
 
 * [PCA Analysis. 3D Interactive plot. Coloured by K-Means genetic group](https://mvallejo6.github.io/mimulus_voyage/grp8_PCA123_20200930.html)
+
+* [UMAP plot for first 200 principal components. Interactive plot. Coloured by Geography](https://mvallejo6.github.io/mimulus_voyage/umap_PCA123_20200930.html)
 ___
 
 #### Last updated: 1 October 2020
