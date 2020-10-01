@@ -2,6 +2,16 @@
 
 This page hosts additional files and figures associated with the paper. Click on the hyperlink to access each file or figure.
 
+## Interactive plots
+
+### Global map of genetic groups
+
+[Map of global sampling of Mimulus guttatus with genetic groups inferred from K-means clustering analysis (DAPC)](https://mvallejo6.github.io/grp8_world_20200930.html)
+
+### Principal Component Analysis 
+
+[PCA Analysis. 3D Interactive plot](https://mvallejo6.github.io/PCA123_20200930.html)
+
 ___
 
 #### Last updated: 1 October 2020
