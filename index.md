@@ -1,8 +1,8 @@
-# The Population genomic and historical analysis reveals a global invasion by bridgehead processes in *Mimulus guttatus* 
+# Population genomic and historical analysis reveals a global invasion by bridgehead processes in *Mimulus guttatus* 
 
 ### Mario Vallejo-Marín*, Jannice Friedman, Alex D. Twyford, Olivier Lepais, Stefanie M. Ickert-Bond, Matthew A. Streisfeld, Levi Yant, Mark van Kleunen, Michael C. Rotter, Joshua R. Puzey
 
-> *Author for correspondence: mario.vallejo@stir.ac.uk
+*Author for correspondence: <mario.vallejo@stir.ac.uk>
 
 https://www.biorxiv.org/content/10.1101/2020.06.26.173286v1
 
